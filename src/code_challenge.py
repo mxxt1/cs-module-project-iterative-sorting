@@ -16,11 +16,6 @@
 
 test_array = [[8, 4], [90, -1, 3], [9, 62], [-7, -1, -56, -6], [201], [76, 18]]
 
-# loop through the test array 
-# loop through each inner array 
-
-#  least_number variable
-
 sum = 0
 for inner in test_array:
     least = 500
